@@ -42,7 +42,7 @@ return {
                 max_height = 20,
                 border = "rounded",
                 win_options = {
-                    winblend = 0,
+                    winblend = 10,
                 },
             },
         })
