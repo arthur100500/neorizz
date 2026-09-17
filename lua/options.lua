@@ -17,9 +17,8 @@ v.smartindent = true
 
 v.clipboard = "unnamedplus"
 
-v.guicursor = "i:block"
-
-v.showmode = false
+-- v.guicursor = "i:block"
+-- v.showmode = false
 v.laststatus = 3
 
 vim.o.timeoutlen = 300
