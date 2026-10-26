@@ -7,7 +7,7 @@ return {
       accent = 'green',
     },
     editor = {
-      transparent_background = false,
+      transparent_background = true,
       sign = { color = 'none' },
       float = {
         color = 'mantle',

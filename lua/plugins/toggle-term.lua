@@ -13,5 +13,6 @@ return {
                 guibg = "NONE",
             },
         },
+        shell = "zsh"
     }
 }
